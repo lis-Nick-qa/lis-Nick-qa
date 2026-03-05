@@ -70,12 +70,13 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate EU.png" width="280px" hspace="10px" alt="Сертификат об окончании базового обучения EU»">](https://raw.githubusercontent.com/lis-Nick-qa/lis-Nick-qa/refs/heads/main/certificate%20EU.png)
-[<img src="/certificate RU.png" width="280px" hspace="10px" alt="Сертификат об окончании базового обучения RU»">](https://raw.githubusercontent.com/lis-Nick-qa/lis-Nick-qa/refs/heads/main/certificate%20RU.png)
 
 <br>
 
 ## 🎒 Образование
+
+[<img src="/certificate EU.png" width="280px" hspace="10px" alt="Сертификат об окончании базового обучения EU»">](https://raw.githubusercontent.com/lis-Nick-qa/lis-Nick-qa/refs/heads/main/certificate%20EU.png)
+[<img src="/certificate RU.png" width="280px" hspace="10px" alt="Сертификат об окончании базового обучения RU»">](https://raw.githubusercontent.com/lis-Nick-qa/lis-Nick-qa/refs/heads/main/certificate%20RU.png)
 [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплома нетю -_-»">](URL)
 
 <br>
