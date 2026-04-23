@@ -77,7 +77,8 @@
 
 [<img src="/certificate EU.png" width="280px" hspace="10px" alt="Certificate of completion of EU Basic Training">](https://raw.githubusercontent.com/lis-Nick-qa/lis-Nick-qa/refs/heads/main/certificate%20EU.png)
 [<img src="/certificate RU.png" width="280px" hspace="10px" alt="Сертификат об окончании базового обучения RU">](https://raw.githubusercontent.com/lis-Nick-qa/lis-Nick-qa/refs/heads/main/certificate%20RU.png)
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплома нетю -_-">](URL)
+[<img src="/diploma RU.png" width="280px" hspace="10px" alt="Диплом о окончании курсов">]()
+[<img src="/diploma EU.png" width="280px" hspace="10px" alt="Диплом о окончании курсов">]()
 [<img src="/sertificate RU.png" width="280px" hspace="10px" alt="сертификат о прохождении курса инженер тестировщик RU">](https://sun9-3.userapi.com/s/v1/ig2/5c-tzgbJmdDIdthTPf760cYbvoQ0qe5JRGWPC4sjx6E9ECLqY9WjbJzCSwkpkDcpBznOCIzFUsQwCtMv4qjKK2KQ.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x339,360x509,480x679,540x763,640x905,720x1018,1080x1527,1280x1809,1440x2036,1811x2560&from=bu&cs=1280x0)
 [<img src="/sertificate EU.png" width="280px" hspace="10px" alt="Engineer Tester Course Completion Certificate RU">](https://sun9-49.userapi.com/s/v1/ig2/eNnvKmo3VytetJ1gXr4A8ZgmQoPgh_XWzBRuetQEqgE-mHWazL82TKeNvhakZSZ-emVN7mf20qTcTmEe3uFgLn3Q.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x339,360x509,480x679,540x763,640x905,720x1018,1080x1527,1280x1809,1440x2036,1811x2560&from=bu&cs=1280x0)
 
